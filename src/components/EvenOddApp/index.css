@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 500px;
+  border-radius: 10px;
+}
+
+.heading {
+  color: #000000;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.full-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  height: 30px;
+  padding: 10px;
+  border-radius: 8px;
+  color: #0f172a;
+  border-width: 0px;
+}
+
+.para {
+  color: #334155;
+  font-family: Roboto;
+  font-size: 20px;
+}
